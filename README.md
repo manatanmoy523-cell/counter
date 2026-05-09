@@ -1,6 +1,6 @@
-# Note Taking App
+# Counter App
 
 # Preview
 
-![Note Taking](./src/assets/counter1.png);
-![Note Taking](./src/assets/counter2.png);
+![Counter](./src/assets/counter1.png);
+![Counter](./src/assets/counter2.png);
